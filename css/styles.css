@@ -64,3 +64,8 @@ color:linen
 .AK{
   border-radius: 50px;
 }
+.tenor-gif-embed{
+  height: 400px;
+  float: left;
+  display: inline-block;
+}
