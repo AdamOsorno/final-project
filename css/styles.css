@@ -50,7 +50,17 @@ body{
 background-image: url(../img/arena.jpg);
 background-repeat: no-repeat;
 background-size: cover;
+height: 100%;
 }
 .chainthrow{
 color:linen
+}
+.controllers{
+  height: 120px;
+  width: 160px;
+  padding: 20px;
+  border-radius: 25px;
+}
+.AK{
+  border-radius: 50px;
 }
