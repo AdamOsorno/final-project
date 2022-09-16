@@ -11,7 +11,9 @@ ul {
   overflow: hidden;
   background-color:rgb(221, 148, 13);
   position: fixed;
-  border-style: dashed;
+  border-style: solid;
+  border-color: gray;
+  box-shadow: grey 15px;
   width: 100vw;
 }
 
@@ -38,6 +40,7 @@ footer{
   background-color:rgb(221, 148, 13);
   display: flex;
   align-items: center;
+  box-shadow: grey 15px;
 }
 h1{
   padding-top: 50px;
